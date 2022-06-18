@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning how to collaborate
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me: erryum.eth
+- 📫 How to reach me: @bengtlofgren
 
 <!---
 bengtlofgren/bengtlofgren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
